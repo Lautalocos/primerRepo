@@ -1,3 +1,4 @@
 nombre = "lautaro"
 apellido = "laner"
-print (f"hola soy {nombre} {apellido}, alumno de programacion 1")
+materia = "programacion 1"
+print (f"hola soy {nombre} {apellido}, alumno de {materia}")
